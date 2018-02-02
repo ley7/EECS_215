@@ -1,5 +1,5 @@
 """
-@author: Zhou Fang
+@author: Le Yu
 """
 
 import networkx as nx
